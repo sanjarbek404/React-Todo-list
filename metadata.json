@@ -1,0 +1,5 @@
+{
+  "name": "React To-Do List",
+  "description": "A simple To-Do List application built with React and TypeScript, featuring task addition, deletion, completion toggling, and filtering.",
+  "requestFramePermissions": []
+}
